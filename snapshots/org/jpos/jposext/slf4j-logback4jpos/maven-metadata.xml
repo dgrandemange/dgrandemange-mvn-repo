@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jpos.jposext</groupId>
+  <artifactId>slf4j-logback4jpos</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120725145602</lastUpdated>
+  </versioning>
+</metadata>
