@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jpos.jposext</groupId>
+  <artifactId>context-mgmt-annotation</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120807100100</lastUpdated>
+  </versioning>
+</metadata>
